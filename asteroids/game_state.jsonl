@@ -1,14 +1,8 @@
-{"timestamp": "16:39:42.171", "elapsed_s": 0, "frame": 60, "screen_size": [1280, 720]}
-{"timestamp": "16:39:42.302", "elapsed_s": 0, "frame": 120, "screen_size": [1280, 720]}
-{"timestamp": "16:39:42.487", "elapsed_s": 1, "frame": 180, "screen_size": [1280, 720]}
-{"timestamp": "16:39:42.655", "elapsed_s": 1, "frame": 240, "screen_size": [1280, 720]}
-{"timestamp": "16:39:42.792", "elapsed_s": 1, "frame": 300, "screen_size": [1280, 720]}
-{"timestamp": "16:39:42.939", "elapsed_s": 1, "frame": 360, "screen_size": [1280, 720]}
-{"timestamp": "16:39:43.104", "elapsed_s": 1, "frame": 420, "screen_size": [1280, 720]}
-{"timestamp": "16:39:43.250", "elapsed_s": 1, "frame": 480, "screen_size": [1280, 720]}
-{"timestamp": "16:39:43.530", "elapsed_s": 2, "frame": 540, "screen_size": [1280, 720]}
-{"timestamp": "16:39:43.686", "elapsed_s": 2, "frame": 600, "screen_size": [1280, 720]}
-{"timestamp": "16:39:43.831", "elapsed_s": 2, "frame": 660, "screen_size": [1280, 720]}
-{"timestamp": "16:39:44.001", "elapsed_s": 2, "frame": 720, "screen_size": [1280, 720]}
-{"timestamp": "16:39:44.197", "elapsed_s": 2, "frame": 780, "screen_size": [1280, 720]}
-{"timestamp": "16:39:44.328", "elapsed_s": 2, "frame": 840, "screen_size": [1280, 720]}
+{"timestamp": "17:55:50.949", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}]}}
+{"timestamp": "17:55:51.965", "elapsed_s": 2, "frame": 120, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": -162.6}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": -162.6}]}}
+{"timestamp": "17:55:52.979", "elapsed_s": 3, "frame": 180, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [601.16, 270.24], "vel": [0.0, 0.0], "rad": 20, "rot": -203.4}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [601.16, 270.24], "vel": [0.0, 0.0], "rad": 20, "rot": -203.4}]}}
+{"timestamp": "17:55:53.997", "elapsed_s": 4, "frame": 240, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [645.8, 373.4], "vel": [0.0, 0.0], "rad": 20, "rot": -203.4}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [645.8, 373.4], "vel": [0.0, 0.0], "rad": 20, "rot": -203.4}]}}
+{"timestamp": "17:55:55.013", "elapsed_s": 5, "frame": 300, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [645.8, 373.4], "vel": [0.0, 0.0], "rad": 20, "rot": -214.2}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [645.8, 373.4], "vel": [0.0, 0.0], "rad": 20, "rot": -214.2}]}}
+{"timestamp": "17:55:56.028", "elapsed_s": 6, "frame": 360, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [583.07, 281.1], "vel": [0.0, 0.0], "rad": 20, "rot": -214.2}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [583.07, 281.1], "vel": [0.0, 0.0], "rad": 20, "rot": -214.2}]}}
+{"timestamp": "17:55:57.043", "elapsed_s": 7, "frame": 420, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [626.8, 345.44], "vel": [0.0, 0.0], "rad": 20, "rot": -153.3}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [626.8, 345.44], "vel": [0.0, 0.0], "rad": 20, "rot": -153.3}]}}
+{"timestamp": "17:55:58.058", "elapsed_s": 8, "frame": 480, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [626.8, 345.44], "vel": [0.0, 0.0], "rad": 20, "rot": -153.3}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [626.8, 345.44], "vel": [0.0, 0.0], "rad": 20, "rot": -153.3}]}}
